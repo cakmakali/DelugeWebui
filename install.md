@@ -1,4 +1,4 @@
-#Deluge BitTorrent Client on Ubuntu 16.04/14.04
+#Deluge BitTorrent Client on Ubuntu 16.04/14.04 (use raw version)
 
 sudo add-apt-repository ppa:deluge-team/ppa
 
